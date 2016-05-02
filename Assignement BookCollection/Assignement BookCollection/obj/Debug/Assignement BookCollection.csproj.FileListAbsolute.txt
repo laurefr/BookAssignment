@@ -1,0 +1,6 @@
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day3\Assignement BookCollection\Assignement BookCollection\bin\Debug\Assignement BookCollection.exe.config
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day3\Assignement BookCollection\Assignement BookCollection\bin\Debug\Assignement BookCollection.exe
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day3\Assignement BookCollection\Assignement BookCollection\bin\Debug\Assignement BookCollection.pdb
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day3\Assignement BookCollection\Assignement BookCollection\obj\Debug\Assignement BookCollection.csprojResolveAssemblyReference.cache
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day3\Assignement BookCollection\Assignement BookCollection\obj\Debug\Assignement BookCollection.exe
+C:\Users\laure\OneDrive\Documents\GitHub\Csharp\Day3\Assignement BookCollection\Assignement BookCollection\obj\Debug\Assignement BookCollection.pdb
